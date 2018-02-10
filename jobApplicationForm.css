@@ -1,0 +1,42 @@
+body {
+background-image: url('sakura.png');
+}
+h2 {
+font-family: 'Amatic SC', cursive;
+font-size: 50px; 
+}
+table {
+float: left;
+}
+legend {
+font-family: 'Amatic SC', cursive;
+text-decoration: underline;
+font-size: 32px;
+}
+label {
+font-family: 'Amatic SC', cursive;
+font-size: 22px;
+float: left;
+clear: left;
+margin: 5px;
+}
+input {
+float: right;
+}
+textarea {
+margin-left: 20px;
+width: 400px;
+height: 200px;
+padding: 10px;
+}
+#select-state {
+width: 808px;
+float: right;
+}
+#personal-info-input {
+width: 804px;
+}
+#project-textarea {
+margin-left: 40px;
+margin-top: 20px;
+}
